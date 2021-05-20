@@ -1,0 +1,21 @@
+.beercard {
+  margin: 10px;
+  background-color: #4D5061;
+  height: 300px;
+  border-radius: 10px;
+  width: 210px;
+
+  .name {
+    color: #E9EDDE;
+    padding: 10px;
+  }
+
+  
+  .cocktailImage {
+    width: 200px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 5px;
+    
+  }
+}
